@@ -1,0 +1,22 @@
+{
+"ART/TPABGT/TOER": "Artifactory",
+"HAED/HRES": "headless",
+"HRERPB/TPHA": "lerna",
+"OEFR/RAOEUD": "override",
+"PHRUG/EUPB": "plugin",
+"PRAOE": "pre-",
+"RAED/PHE": "README",
+"SKWRAOER/RA": "Jira",
+"SKWREPBGS": "jenkinsfiles",
+"SRAOE": "v1",
+"STAPBD/UP": "standup",
+"TKAOE/PWUG": "debug",
+"TKPWEPBT": "generator",
+"TPROPBT/EPBD": "frontend",
+"TRAPBS/PAOEUL": "transpile",
+"WAUBG/THRU": "walkthrough",
+"WEB/PABG": "webpack",
+"WORBG/A/ROUPBD": "workaround",
+"WORBG/ARPBD": "workaround",
+"WORBG/ROUPBD": "workaround"
+}
