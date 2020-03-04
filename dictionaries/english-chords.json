@@ -3,7 +3,10 @@
 "AL/PHOFT": "almost",
 "KP/ABGT": "exact",
 "KP/TRA": "extra",
+"PHEUD/TKEL": "middle",
 "PWUT/TOPB": "button",
 "STAT/TEUBG": "static",
-"TO/TKAEU": "today"
+"TO/TKAEU": "today",
+"WO/PHEPB": "women",
+"WOPL/PHEPB": "women"
 }
