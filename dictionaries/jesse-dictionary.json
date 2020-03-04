@@ -1,5 +1,6 @@
 {
 "ETS": "etc",
+"H-L": "hello",
 "HR*EUFT": "list",
 "HR-D": "laserdisc",
 "KWAUL": "equal",
@@ -10,7 +11,10 @@
 "R-L": "really",
 "SURB": "sush",
 "SURB/KWREU": "sushi",
+"THAPBG": "thank",
+"THAPBGS": "thanks",
 "TKPWEPL": "gem",
 "TPHA": "nah",
-"TRAOEUFPLT": "triumphant"
+"TRAOEUFPLT": "triumphant",
+"WHEUFP": "which"
 }
